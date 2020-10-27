@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: parultestapp
-        image: parul_technocrat/sprint6dockerjenkinsgcloud:tagversion 
+        image: parul86/sprint6dockerjenkinsgcloud:tagversion 
         ports:
         - containerPort: 8080
 ---
